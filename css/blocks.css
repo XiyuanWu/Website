@@ -345,6 +345,10 @@
   background-color: transparent;
   color: #fff; }
 
+.btn--hover-decoration-exper {
+    min-width: 42%;
+    text-align: center;
+  }
 .btn--with-shadow-active:after {
   content: "";
   display: block;

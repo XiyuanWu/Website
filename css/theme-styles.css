@@ -3962,3 +3962,8 @@ img.mfp-img {
   margin-top: 0px; /* Reduces space from the top */
   margin-bottom: 0px; /* Reduces space from the bottom */
 }
+
+.name-column { width: 20%; }
+.description-column { width: 40%; }
+.website-column { width: 20%; }
+.github-column { width: 20%; }
