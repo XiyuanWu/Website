@@ -3965,5 +3965,6 @@ img.mfp-img {
 
 .name-column { width: 20%; }
 .description-column { width: 40%; }
-.website-column { width: 20%; }
-.github-column { width: 20%; }
+.website-column { width: 14%; }
+.github-column { width: 14%; }
+.status-column { width: 12%; }
